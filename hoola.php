@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Pagina 1</h1>
-    <a href="pagina3.html">pagina3</a>
-    <a href="index.html">inicio</a>
     
+<h1>hola</h1>
 </body>
 </html>
